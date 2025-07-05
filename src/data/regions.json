@@ -1,0 +1,62 @@
+{
+    "erevan": {
+        "hy": "Երևան",
+        "ru": "Ереван",
+        "en": "Yerevan"
+    },
+    "aragatsotn": {
+        "hy": "Արագածոտնի մարզ",
+        "ru": "Арагацотнская область",
+        "en": "Aragatsotn Province"
+    },
+    "ararat": {
+        "hy": "Արարատի մարզ",
+        "ru": "Араратская область",
+        "en": "Ararat Province"
+    },
+    "armavir": {
+        "hy": "Արմավիրի մարզ",
+        "ru": "Армавирская область",
+        "en": "Armavir Province"
+    },
+    "vayots": {
+        "hy": "Վայոց Ձորի մարզ",
+        "ru": "Вайоцдзорская область",
+        "en": "Vayots Dzor Province"
+    },
+    "gegharkunik": {
+        "hy": "Գեղարքունիքի մարզ",
+        "ru": "Гехаркуникская область",
+        "en": "Gegharkunik Province"
+    },
+    "kotayk": {
+        "hy": "Կոտայքի մարզ",
+        "ru": "Котайкская область",
+        "en": "Kotayk Province"
+    },
+    "lori": {
+        "hy": "Լոռու մարզ",
+        "ru": "Лорийская область",
+        "en": "Lori Province"
+    },
+    "syunik": {
+        "hy": "Սյունիքի մարզ",
+        "ru": "Сюникская область",
+        "en": "Syunik Province"
+    },
+    "tavush": {
+        "hy": "Տավուշի մարզ",
+        "ru": "Тавушская область",
+        "en": "Tavush Province"
+    },
+    "shirak": {
+        "hy": "Շիրակի մարզ",
+        "ru": "Ширакская область",
+        "en": "Shirak Province"
+    },
+    "overseas": {
+        "hy": "Արտերկիր",
+        "ru": "Зарубежье",
+        "en": "Overseas"
+    }
+}

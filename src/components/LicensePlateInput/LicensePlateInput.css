@@ -1,0 +1,62 @@
+/* Контейнер для всего номерного знака */
+.license-plate-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+/* Блок номерного знака */
+.license-plate {
+    display: flex;
+    align-items: center;
+    border: 6px solid #000;
+    border-radius: 12px;
+    padding: 10px;
+    background-color: white;
+    width: 725px;
+    height: 137px;
+    justify-content: space-between;
+    
+}
+
+/* Флаг */
+.license-plate-flag img {
+    width: 90px;
+    padding: 7px 5px 5px 3px;
+}
+
+/* Код страны */
+.license-plate-code {
+    font-size: 155px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+/* Поля для ввода номера */
+.license-plate-number {
+    display: flex;
+}
+
+.plate-input {
+    width: 100%;
+    height: 100px;
+    font-weight: 700;
+    font-size: 110px;
+    text-align: center;
+    border: 0;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+/* Убираем выделение при фокусе */
+.plate-input:focus {
+    outline: none;
+}
+
+/* Задание placeholder для полей */
+.plate-input::placeholder {
+    color: #ccc;
+    font-size: 110px;
+}

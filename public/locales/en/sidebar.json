@@ -1,0 +1,11 @@
+{
+    "dashboard": "Dashboard",
+    "accidents": "Accidents",
+    "contracts": "Contracts",
+    "organizations": "Organizations",
+    "garages": "Garages",
+    "profile": "Profile",
+    "createAccidents": "Create accidents",
+    "admin": "Admin"
+
+}
